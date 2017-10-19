@@ -1,2 +1,0 @@
-# 7continent
-13
